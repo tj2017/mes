@@ -1,2 +1,2 @@
 Git is not a version control system.
-Git is free software psp.
+Git is free software psp and nima.
